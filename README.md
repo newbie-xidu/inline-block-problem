@@ -1,4 +1,6 @@
-当我们用inline-block代替float的时候，会出现元素之间有空隙的情况，如图
+﻿当我们用inline-block代替float的时候，会出现元素之间有空隙的情况，如图
+
+
 ![这里写图片描述](http://img.blog.csdn.net/20170214111958413?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvd2F0ZXJtZWxvbl94aQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 再这里我就列举几种简单的办法：
@@ -55,5 +57,7 @@
 	background: lightblue;
 }
 ```
+4、用浮动的方法也可以解决。
+
 暂时就写这些以后遇到再慢慢补充。
 
